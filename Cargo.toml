@@ -1,6 +1,10 @@
 [package]
 name = "asnames"
 version = "0.1.0"
+authors = ["Mingwei Zhang <mingwei@bgpkit.com>"]
+repository = "https://github.com/bgpkit/asnames-rs"
+documentation = "https://docs.rs/bgpkit-parser"
+license = "MIT"
 edition = "2021"
 description = """
 A library for simple Autonomous System (AS) names and country lookup

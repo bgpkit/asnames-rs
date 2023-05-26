@@ -1,0 +1,13 @@
+[package]
+name = "asnames"
+version = "0.1.0"
+edition = "2021"
+description = """
+A library for simple Autonomous System (AS) names and country lookup
+"""
+keywords = ["bgp", "bgpkit"]
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+oneio = {version="0.10.1", features=['remote']}
+anyhow = "1.0"

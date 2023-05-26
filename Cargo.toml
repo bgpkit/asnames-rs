@@ -13,5 +13,5 @@ keywords = ["bgp", "bgpkit"]
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-oneio = {version="0.10.1", features=['remote']}
+oneio = {version="0.10.1", default-features = false, features=['remote']}
 anyhow = "1.0"

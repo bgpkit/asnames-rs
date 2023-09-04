@@ -1,5 +1,9 @@
 # asnames-rs
 
+> [!WARNING]
+> This crate is deprecated, use [`bgpkit-commons`](https://crates.io/crates/bgpkit-commons) instead.
+
+
 [![Crates.io](https://img.shields.io/crates/v/asnames)](https://crates.io/crates/asnames)
 [![Docs.rs](https://docs.rs/asnames/badge.svg)](https://docs.rs/asnames)
 [![License](https://img.shields.io/crates/l/asnames)](https://raw.githubusercontent.com/bgpkit/asnames/master/LICENSE)
